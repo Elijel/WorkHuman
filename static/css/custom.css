@@ -1,0 +1,10 @@
+/****Navbar****/
+.dropdown-item {
+	font-size: 14px;
+	letter-spacing: .2em;
+	text-transform: uppercase;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
